@@ -1,0 +1,4 @@
+#Fri Oct 15 17:02:23 CST 2021
+base.0=D\:\\AndroidStudioProjects\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

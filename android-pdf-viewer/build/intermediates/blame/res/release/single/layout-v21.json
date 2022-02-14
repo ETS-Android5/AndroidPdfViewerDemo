@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\XSJ-001\\.gradle\\caches\\transforms-2\\files-2.1\\b29931b10014965f5a7bee89e56ee7d7\\support-compat-26.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\XSJ-001\\.gradle\\caches\\transforms-2\\files-2.1\\b29931b10014965f5a7bee89e56ee7d7\\support-compat-26.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\XSJ-001\\.gradle\\caches\\transforms-2\\files-2.1\\b29931b10014965f5a7bee89e56ee7d7\\support-compat-26.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo-master\\AndroidPdfViewerDemo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\XSJ-001\\.gradle\\caches\\transforms-2\\files-2.1\\b29931b10014965f5a7bee89e56ee7d7\\support-compat-26.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
